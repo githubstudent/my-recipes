@@ -9,4 +9,6 @@
 - Mushrooms
 
 ## Directions
-- Ask mom to combine ingredients
+- Boil noodles
+- Add remaining ingredients into pan and simmer
+- Add noodles once they are soft
